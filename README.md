@@ -61,7 +61,7 @@ O nome é obrigatório e a quantidade deve ser um número inteiro maior que zero
 
 **Os totais contam produtos cadastrados, não unidades.** Por exemplo: Arroz com quantidade 3 conta como **um** produto.
 
-## 3. Roteiro para o professor testar
+## 3. Roteiro para testar
 
 Comece com a lista vazia. Se necessário, encerre o aplicativo e execute novamente.
 
@@ -112,7 +112,7 @@ flutter test integration_test/app_test.dart -d emulator-5554
 
 **Resultados já obtidos:** código formatado, análise sem problemas, **11 testes locais aprovados** e **3 testes aprovados no Pixel_4 com Android 14**. O aplicativo também foi instalado e aberto nesse emulador.
 
-O roteiro manual da seção 3 fica disponível para a conferência do professor, incluindo teclado, rolagem e navegação pelo Android.
+O roteiro manual da seção 3 permite conferir teclado, rolagem e navegação pelo Android.
 
 ## Se o emulador travar
 
